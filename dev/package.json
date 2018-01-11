@@ -1,0 +1,20 @@
+{
+  "name": "tema",
+  "version": "1.0.0",
+  "description": "Tema basico devel less",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Augusto <negocios.digitalfront@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.4.0",
+    "gulp-twig": "^1.1.1"
+  },
+  "dependencies": {
+    "uikit": "^3.0.0-beta.35"
+  }
+}

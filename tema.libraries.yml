@@ -1,0 +1,10 @@
+base-css:
+  css:
+    theme:
+      assets/css/tema.css: {}
+base-js:
+  js:
+    assets/js/uikit.js: {}
+    assets/js/uikit-icons.js: {}
+  dependencies:
+    - core/jquery
